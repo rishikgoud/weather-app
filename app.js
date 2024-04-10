@@ -1,4 +1,4 @@
-const apikey="8d164da8068af3dcf829e779770ffff6";
+const apikey="enter your secret apikey";
 const apilink = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="
 
 const checkbox = document.querySelector(".search input");
