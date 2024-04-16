@@ -38,4 +38,4 @@ async function checkweather(city){
 checkbtn.addEventListener("click", ()=>{
     checkweather(checkbox.value);
 
-}) 
+})
