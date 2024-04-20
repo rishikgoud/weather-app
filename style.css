@@ -103,3 +103,8 @@ body{
     font-size: 14px;
     display: none;
 }
+@media  screen and (max-width : 460px) {
+    .search input{
+        width: 30%;
+    }
+}
